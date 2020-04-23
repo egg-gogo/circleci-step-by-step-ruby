@@ -6,4 +6,4 @@ jobs:
       
     steps:
       - checkout
-      - rin: echo "Hello CircleCI!"
+      - run: echo "Hello CircleCI!"
